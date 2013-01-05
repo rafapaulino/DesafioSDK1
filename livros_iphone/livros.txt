@@ -1,0 +1,133 @@
+Os 8 Ps do Marketing Digital
+Autor: Conrado Adolpho 
+ISBN: 978-85-7522-275-1
+Páginas: 904
+Ano: 2011
+Preço: R$ 139,00 
+
+Resenha
+Este livro foi publicado originalmente com o título Google Marketing. O marketing digital passa atualmente por uma fase de consolidação em que apenas as empresas e os profissionais que tiverem um conceito sólido do que representa a internet na economia atual, baseada em conhecimento, e que tiverem domínio prático sobre as táticas desse novo mundo formado por bits vão prosperar no mercado. O livro Os 8 Ps do Marketing Digital traz para profissionais de marketing, administradores, empresários, profissionais liberais e estudantes o passo a passo para se ter êxito nas estratégias de negócios de todos os tipos, utilizando para isso o ambiente online. Mostra como transformar a internet em uma ferramenta de negócios eficiente e lucrativa. Mostra também, por meio de mais de cem cases e centenas de indicações de ferramentas, o lado prático do marketing digital, porém, sem deixar de expor de maneira didática e abrangente toda uma nova teoria gerada pela era do conhecimento e pelas novas tecnologias da informação e da comunicação. Um livro essencial para todos que trabalham com marketing e comunicação e para todos que administram negócios em meio a essa nova era da informação. Um guia estratégico, tático e operacional que não pode faltar na sua estante.
+
+
+
+
+Construindo Sites com CSS e (X)HTML
+Autor: Maurício Samy Silva 
+ISBN: 978-85-7522-139-6
+Páginas: 448
+Ano: 2007
+Preço: R$ 75,00 
+
+Resenha
+Seja você um desenvolvedor experiente, um acadêmico, um estudante da área relacionada à construção de sites para web ou um iniciante, Construindo sites com CSS e (X)HTML ampliará seus conhecimentos e será uma fonte de consulta valiosa no seu dia-a-dia de trabalho. 
+
+Este livro aborda a técnica de construção de sites baseada nas Web Standards do W3C, cujo princípio básico é separar a marcação (X)HTML da apresentação visual. As CSS são uma poderosa ferramenta à disposição do desenvolvedor para criar um arquivo central de controle de todo o layout e apresentação do site. 
+
+De forma didática, são apresentadas as razões da criação das Web Standards e suas vantagens, a sintaxe (X)HTML e CSS, as propriedades CSS e a criação de layouts fixos e elásticos multicolunares. Os assuntos tratados são ilustrados com códigos, exemplos e figuras que mostram a renderização no navegador. No site de apoio, o leitor encontrará os códigos para download e informações complementares sobre o livro.
+
+
+
+
+
+jQuery – A Biblioteca do Programador JavaScript 2ª edição
+Autor: Maurício Samy Silva 
+ISBN: 978-85-7522-237-9
+Páginas: 544
+Ano: 2010
+Preço: R$ 95,00
+
+Resenha
+jQuery é uma poderosa biblioteca JavaScript criada para simplificar a criação de efeitos visuais e de interatividade em websites. Desenvolvedores especialistas em JavaScript, ao conhecerem as maravilhas de que a biblioteca é capaz, com certeza vão se perguntar: “Por que não pensei nisso antes?”. Iniciantes, com noções rudimentares de JavaScript, experimentarão uma curva de aprendizado inimaginável para aqueles experientes com a linguagem. 
+
+jQuery propicia a criação de scripts de uma forma tão simples e intuitiva que consegue com meia dúzia de linhas os mesmos efeitos de um script de 30 a 40 linhas desenvolvido com JavaScript tradicional. Simplicidade foi a diretriz que norteou John Resig na criação da biblioteca. 
+
+Este livro, na primeira parte, apresenta a biblioteca e um estudo da sintaxe e emprego dos seletores e comandos jQuery, desenvolvendo scripts de exemplo para cada um deles, que podem ser examinados ao vivo em arquivos disponíveis para download no site do livro. Na segunda parte, são desenvolvidos vários scripts de emprego real, todos comentados e disponíveis para download.
+
+
+
+
+Ajax com jQuery
+Autor: Maurício Samy Silva 
+ISBN: 978-85-7522-199-0
+Páginas: 328
+Ano: 2009
+Preço: R$ 69,00 
+
+Resenha
+Ajax com jQuery é uma poderosa combinação das funcionalidades do AJAX com a simplicidade que jQuery proporciona ao desenvolvimento com JavaScript. Seja você um especialista ou um iniciante no uso de AJAX, certamente ficará maravilhado ao descobrir uma metodologia completamente diferente, inovadora, intuitiva e infinitamente mais simples de desenvolvê-lo.
+
+Este livro apresenta uma visão geral do AJAX segundo a maneira tradicional de desenvolvimento, recapitulando seus conceitos básicos, dissertando sobre os métodos e propriedades do objeto XMLHttpRequest e explicando passo a passo os scripts fundamentais que, reunidos, formam uma biblioteca mínima para uma requisição AJAX. Ainda, aborda os diferentes tipos de arquivos possíveis de ser requisitados e ilustra cada caso com um exemplo prático em funcionamento no site do livro. Descreve detalhadamente os métodos e funcionalidades da biblioteca jQuery para AJAX. Inclui também exemplos práticos que podem ser implementados e cujo funcionamento pode ser conferido no site do livro.
+
+
+
+Fundamentos da SVG
+Autor: Maurício Samy Silva 
+ISBN: 978-85-7522-321-5
+Páginas: 224
+Ano: 2012
+Preço: R$ 53,00
+
+Resenha
+SVG (Scalable Vector Graphics) é uma tecnologia desenvolvida pelo W3C (World Wide Web Consortium) para criar gráficos vetoriais escaláveis, com base na linguagem XML. Define a sintaxe para criação de imagens estáticas capazes de serem animadas, de responder a ações interativas, de serem estilizadas com CSS, de serem incorporadas à HTML e de receberem vários tipos de efeitos gráficos. Por ser uma aplicação XML a SVG proporciona o desenvolvimento de páginas web muito mais leves, rápidas e com alto potencial de interatividade. Ao contrário das imagens nos formatos GIF, JPEG e PNG as imagens SVG escalam apropriadamente em qualquer dispositivo sem perder resolução adaptando-se ao tamanho da área de visualização quer o dispositivo seja um telefone portátil, um monitor de grandes dimensões ou uma impressora de alta definição.
+
+Este livro tem por objetivo fornecer aos profissionais envolvidos com o desenvolvimento para a web os conceitos fundamentais e técnicas de programação necessárias para criar gráficos SVG. Fornece as informações básicas e mostra a sintaxe necessária à criação de formas gráficas vetoriais simples bem como apresenta e detalha os principais métodos e propriedades da API JavaScript e da linguagem SMIL, para adicionar interatividade aos gráficos vetoriais. Descreve os componentes, mecanismos e funcionalidades da linguagem. As explicações teóricas são feitas em linguagem corrente e clara, dispensando, sempre que possível, o jargão técnico avançado, e são acompanhadas de exemplos práticos explicados passo a passo e complementados por arquivos XML para consulta. Destina-se aos profissionais envolvidos na criação de aplicações web e desktop, tanto na área de design quanto na de desenvolvimento e programação.
+
+Neste livro você aprenderá como:
+
+- Criar formas e preenchimento de gráficos
+
+- Inserir textos em um gráfico SVG
+
+- Aplicar estilos aos gráficos SVG
+
+- Criar gradientes e padrões e as técnicas para preencher gráficos SVG com esses objetos
+
+- Criar efeitos gráficos com recortes e máscaras
+
+- Obter variados efeitos gráficos com uso de filtros
+
+- Transformar gráficos com a linguagem SVG
+
+- Criar animações com uso da linguagem SMIL
+
+- Usar a linguagem JavaScript para adicionar interatividade à gráficos SVG
+
+- Usar editores para gráficos SVG
+
+
+
+
+
+
+
+iPhone na Prática
+Autor: Fabio Perez Marzullo 
+ISBN: 978-85-7522-297-3
+Páginas: 272
+Ano: 2012
+Preço: R$ 59,00 
+
+Resenha
+O mercado de aplicações para dispositivos móveis vem crescendo de maneira fascinante nos últimos anos, principalmente para os dispositivos da Apple, que utilizam o sistema operacional iOS. Surge uma nova plataforma, recheada de recursos, oferecendo um conjunto de ferramentas de desenvolvimento acompanhado de um novo modelo de negócios associado à iTunes Store e capaz de gerar ganhos financeiros relevantes tanto para profissionais liberais como para empresas que atuem na área. Por conta do sucesso associado ao modelo da iTunes Store e do aquecimento do mercado brasileiro, cresce a demanda por profissionais que possuam as competências necessárias para criar soluções inovadoras para essa maravilhosa plataforma.
+
+Com o objetivo de auxiliar o aprendizado de tais profissionais, este livro apresenta, de forma simples e de rápida absorção, os principais conceitos que devem ser empregados no desenvolvimento de aplicações para o iOS, ensinando como criar rapidamente aplicações utilizando os componentes e recursos mais importantes nos frameworks disponíveis na ferramenta de desenvolvimento Xcode. Com praticidade, os conceitos são apresentados e solidificados ao longo da resolução de exemplos, demonstrando como é simples desenvolver aplicações com funcionalidades como navegação, manipulação de imagens, localização, mapa e principalmente persistência de dados.
+
+Espera-se que ao final da leitura o leitor consiga desenvolver aplicações para iPhone, iPod Touch e iPad, desde os seus primeiros estágios de planejamento até a inclusão e distribuição na iTunes Store. Como bônus, é possível baixar no site do livro (http://www.iphonenapratica.com.br) os exemplos e executá-los em seu Mac.
+
+Você será capaz de criar aplicações usando os seguintes recursos:
+
+1- Foundation, que oferece os recursos específicos da linguagem Objective-C.
+
+2- UIKit, que oferece os componentes para a criação de formulários tais como UIWindow e UIView, UIButton, UILable, UITableView, UISplitView, entre tantos outros.
+
+3- Core Location, que oferece recursos para a criação de aplicações capazes de identificar a localização do aparelho.
+
+4- MapKit, que oferece os componentes para manipulação de mapas.
+
+5- ImageKit, que oferece os recursos para manipulação de imagens.
+
+6- Core Data, essencial para persistência de dados.
+
+7- Serviços como caderno de endereços e biblioteca de imagens.
+
+

@@ -7,12 +7,32 @@
 //
 
 #import "PrincipalAppDelegate.h"
+#import "VariaveisGlobais.h"
 
 @implementation PrincipalAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    //criando o caminho dos arquivos
+    
+    //meus dados
+    //NSHomeDirectory retorna qual é a pasta raiz da aplicação dentro do device
+    //A esta pasta raiz, adicionamos /Documents e o nome do arquivo
+    NSString *meusdados = [NSHomeDirectory() stringByAppendingString:@"/Documents/meusdados.plist"];
+    //Primeira vez que chamamos o metodo shared de VariaveisGlobais, momento em que o objeto desta classe é criado, sendo único para toda a aplicação.
+    //Assim, garantimos que sempre que acessar a property localArquivo, vamos obter o mesmo endereço para o mesmo arquivo externo
+    [[VariaveisGlobais shared] setLocalSessao:meusdados];
+
+    //meu carrinho
+    NSString *meuCarrinho = [NSHomeDirectory() stringByAppendingString:@"/Documents/meucarrinho.plist"];
+    [[VariaveisGlobais shared] setLocalCarrinho:meuCarrinho];
+    
+    //livros
+    NSString *livros = [NSHomeDirectory() stringByAppendingString:@"/Documents/livros.plist"];
+    [[VariaveisGlobais shared] setLocalLivros:livros];
+    
     return YES;
 }
 							
